@@ -11,7 +11,7 @@
     "start": "node ./bin/runServer",
     "start-dev": "npm run nodemon",
     "lint": "eslint ./src",
-    "mocha": "mocha ./test",
+    "test": "echo \"Coming soon!\" && exit 0",
     "test": "npm run mocha"
   },
   "dependencies": {
