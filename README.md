@@ -4,6 +4,6 @@
 
 ## Usage
 
-```diff
-+ GET http://static.r-o-b.media/s3/:resource
+```bash
+http://static.r-o-b.media/s3/:resource
 ```
